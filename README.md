@@ -6,9 +6,9 @@ things in research are not really running optimally.
 
 
 This repository contains short peer reviews of selected scientific articles from the 
-field of biomedicine in the form of "open final-version" comments; see Ross-Hellauer (2017). 
+field of (Bio-)Medicine in the form of "open final-version" comments; see Ross-Hellauer (2017). 
 The aim of these peer reviews is to address methodological and statistical weaknesses 
-and thus hopefully contribute to improving the situation in biomedical research. 
+and thus hopefully contribute to improving the situation in (bio-)medical research. 
 
 
 All my documents provided here are subject to the DPPL v3 license
