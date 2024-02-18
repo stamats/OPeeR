@@ -11,6 +11,11 @@ The aim of these peer reviews is to address methodological and statistical weakn
 and thus hopefully contribute to improving the situation in biomedical research. 
 
 
+All my documents provided here are subject to the DPPL v3 license
+(https://www.hbz-nrw.de/produkte/open-access/lizenzen/dppl/dppl/DPPL_v3_en_11-2008); 
+see also LICENSE.pdf.
+
+
 Ioannidis J.P.A. (2005). Why Most Published Research Findings Are False. PLoS Med 2(8): e124. 
 https://doi.org/10.1371/journal.pmed.0020124.
 
