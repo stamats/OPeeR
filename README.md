@@ -1,4 +1,4 @@
-# Open Peer Review - Methodological and statistical peer review of selected scientific articles 
+# Open Peer Review - Methodological and statistical peer review of selected scientific articles <p align="center"><img src="hex-OPeeR.png" width="400"></p>
 
 The work of John P.A. Ioannidis (see Ioannidis (2005), Ioannidis (2016), Ioannidis (2022)) 
 and the book by Stuart Ritchie (see Ritchie (2020)), among others, make it clear that many 
